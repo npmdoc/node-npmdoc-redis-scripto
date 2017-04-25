@@ -1,4 +1,7 @@
-# api documentation for  [redis-scripto (v0.1.3)](https://github.com/arunoda/node-redis-scripto)  [![npm package](https://img.shields.io/npm/v/npmdoc-redis-scripto.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-redis-scripto) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-redis-scripto.svg)](https://travis-ci.org/npmdoc/node-npmdoc-redis-scripto)
+# npmdoc-redis-scripto
+
+#### basic api documentation for  [redis-scripto (v0.1.3)](https://github.com/arunoda/node-redis-scripto)  [![npm package](https://img.shields.io/npm/v/npmdoc-redis-scripto.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-redis-scripto) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-redis-scripto.svg)](https://travis-ci.org/npmdoc/node-npmdoc-redis-scripto)
+
 #### Redis Lua Script Manager for NodeJS
 
 [![NPM](https://nodei.co/npm/redis-scripto.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/redis-scripto)
@@ -63,7 +66,8 @@
     "scripts": {
         "test": "test/index.js"
     },
-    "version": "0.1.3"
+    "version": "0.1.3",
+    "bin": {}
 }
 ```
 
